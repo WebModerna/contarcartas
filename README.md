@@ -1,4 +1,4 @@
-<h1>Programa de contar cartas<h1>
+<h1>Programa de contar cartas</h1>
 
 <p>
 	Programa para contar cartas y brindarte la probabilidad de que la siguiente carta, sea menor o igual a la que sacaste recién.
