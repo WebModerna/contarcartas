@@ -1,11 +1,11 @@
 <h1>Programa de contar cartas</h1>
 
 <p>
-	Programa para contar cartas y brindarte la probabilidad de que la siguiente carta, sea menor o igual a la que sacaste recién.
+	Programa para contar cartas y brindarte la probabilidad de que la siguiente carta, sea menor o igual a la que sacaste recién. Fue realizado allá por el año 2002, aproximadamente (la verdad es que no me acuerdo).
 </p>
 
 <p>
-	Está diseñado específicamente para las calculadoras <stron>CASIO fx6600</stron>, de ahí para arriba.
+	Está diseñado específicamente para las calculadoras graficadoras <stron>CASIO fx6600</stron>, de ahí para arriba.
 	<br />
 	También las para las calculadoras fincancieras <stron>CASIO FC-200</stron>, para arriba; que admita lenguaje de programación.
 </p>
